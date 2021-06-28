@@ -1,3 +1,3 @@
-# ignite-desafio01-coneceitos-nodejs
+# ignite-nodejs
 
-Primeiro desafio do Ignite da Rocketseat - Trilha Node js
+Desafios do bootcamp da RocketSeat
